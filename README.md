@@ -1,2 +1,9 @@
-# quick-cheatsheet-helper-61
-A simple cheatsheet project
+# Cheatsheet
+
+A simple cheatsheet project.
+\n
+## Getting Started
+
+```bash
+python app.py
+```
